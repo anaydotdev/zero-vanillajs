@@ -1,4 +1,4 @@
-# zero sync with vanilla js
+# zero-vanillajs
 - bun & vite
 - vanilla js
 - tailwind elements + tailwind css
